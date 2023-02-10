@@ -11,11 +11,16 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
+  
+   
+   
 html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
 }
+
+
 
 
 /*
@@ -89,11 +94,17 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+  
 
    main {
     background: cornsilk;
     width: 90vw;
     margin: 0 auto;
+  }
+
+  body {
+     font-family: 'Aclonica', sans-serif;
+   
   }
     
     article {
