@@ -99,7 +99,7 @@ textarea {
    main {
     background: cornsilk;
     width: 90vw;
-    margin: 0 auto;
+    margin:  auto;
   }
 
   body {
@@ -109,9 +109,9 @@ textarea {
     
     article {
     display: grid;
-    grid-template-columns: 2fr 2fr 2fr;
+    grid-template-columns: 3fr 3fr 3fr;
     grid-template-rows: minmax(300px,max-content);
-    gap: 1rem;
+    gap: 2rem;
     }
 
   section {
@@ -138,7 +138,7 @@ textarea {
     align-items: flex-start;
     width:200px;
     padding:1rem;
-    margin:1rem;
+    margin:5rem;
     background-color:pink;
     border: 1px solid #999;
   }
