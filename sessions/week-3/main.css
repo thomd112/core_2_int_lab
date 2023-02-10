@@ -104,13 +104,13 @@ textarea {
     }
 
   section {
-    background: orange;
+    background: rgb(157, 219, 179);
     padding: 5rem;
   }
 
   nav ul{
     display: flex;
-    background-color: yellow;
+    background-color: rgb(255, 162, 158);
     padding:1rem;
   }
 
@@ -145,9 +145,27 @@ textarea {
     background-color:lightblue;
     border:1px solid #999;
   }
-  
- 
 
+
+
+
+
+
+  .type-grid{
+    display:grid;
+    grid-template-columns: 2fr 8fr;
+    grid-template-rows: auto;
+    gap:1rem;
+  }
+  
+  @media (min-width: 50cm) {
+    .type-grid {
+    display:grid;
+    grid-template-columns: 2fr 8fr;
+    grid-template-rows: auto;
+    gap:1rem;
+    }
+  }
 
 
 
