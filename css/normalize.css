@@ -22,6 +22,10 @@ html {
 
 body {
   margin: 0;
+  background-color: antiquewhite;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  text-align: center;
 }
 
 /**
