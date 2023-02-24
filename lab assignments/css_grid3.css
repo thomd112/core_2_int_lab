@@ -18,24 +18,24 @@ html {
 }
 
 body {
-  background-color: #DDF8FC;
+  background-color: #134f58;
   }
 
 
   .grid {
     display: grid; 
  
-    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-columns: 1cm 1cm 1cm 1cm 1cm 1cm 1cm 1cm 1cm 1cm;
+    grid-template-rows: 2fr 1fr 1fr 3fr 5fr 3fr 1fr 1fr 2fr;
+    grid-template-columns: 1cm 1cm 1cm 1cm 1cm 1cm 1cm 1cm 1cm 2cm;
     
-    gap: 0px;
+    gap: 5fr;
     height: 100%;
     
  }
    
  #item-0 {
  
-  background-color: #B7BB57; 
+  background-color: #d35f06; 
     grid-row-start: 3;
     grid-column-start: 4;
     grid-row-end: 7;
