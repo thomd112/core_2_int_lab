@@ -27,16 +27,22 @@ body{
 
 
 div {
-  border: 10px solid #F7EDE2;
+  border: 1px solid #F7EDE2;
 }
 
-h1{
-  font-size: 200px;
-  text-align: center;
+div{
+  font-size: 40px;
+  text-align: left;
   font-family: "eckmannpsych-large", sans-serif;
 font-weight: 400;
 font-style: normal;
 }
+
+/* h2{
+  font-family: "eckmannpsych-medium", sans-serif;
+font-weight: 400;
+font-style: normal;
+} */
 
 /*
  * Remove text-shadow in selection highlight:
