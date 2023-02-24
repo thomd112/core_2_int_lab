@@ -17,25 +17,26 @@ html {
   line-height: 1.4;
 }
 body{
-  background-color: #594F4F;
-}
-
-div.static{
-  position: static;
-  border: 120px double #547980 ;
-}
-div.static1{
-  position: static;
-  border: 120px double #9DE0AD ;
-}
-div.static2{
-  position: static;
-  border: 150px double #E5FCC2 ;
-  
-  
+  background-color: #84A59D;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    color: #F5CAC3;
 }
 
 
+
+div {
+  border: 10px solid #F7EDE2;
+}
+
+h1{
+  font-size: 200px;
+  text-align: center;
+  font-family: "eckmannpsych-large", sans-serif;
+font-weight: 400;
+font-style: normal;
+}
 
 /*
  * Remove text-shadow in selection highlight:
