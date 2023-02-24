@@ -27,12 +27,12 @@ body{
 
 
 div {
-  border: 10px solid #F7EDE2;
+  border: 1px solid #F7EDE2;
 }
 
 .grid-container{
-  font-size: 50px;
-  text-align: right;
+  font-size: 30px;
+  text-align: center;
   font-family: "eckmannpsych-large", sans-serif;
 font-weight: 400;
 font-style: normal;
