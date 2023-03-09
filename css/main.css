@@ -19,6 +19,30 @@ html {
   font-size: 1em;
   line-height: 1.4;
 }
+body {
+  font-family: "quatro-slab", serif;
+  font-weight: 700;
+  font-style: normal;
+  background-color: #A4AA83;
+ 
+
+}
+
+h1{
+  color:#4C411A;
+  text-align: justify;
+}
+
+h2{
+  color: #4C411A;
+  text-align: left;
+}
+
+
+
+
+
+
 
 
 
