@@ -351,60 +351,64 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: var(--text-x6);
   line-height: 110%;
-  font-family: 'Oswald', sans-serif; 
-  font-weight: 500;
+  font-family: "halyard-display", sans-serif;
+font-weight: 500;
+font-style: normal;
 }
 
 h2 {
   font-size: var(--text-x5);
-  font-family: 'Oswald', sans-serif; 
+  font-family: "halyard-display", sans-serif;
   font-weight: 500;
   line-height: 110%;
 }
 
 h3 {
   font-size: var(--text-x4);
-  font-family: 'Oswald', sans-serif; 
+  font-family: "halyard-display", sans-serif;
+font-style: normal; 
   font-weight: 500;
   line-height: 120%;
 }
 
 h4 {
   font-size: var(--text-x3);
-  font-family: 'Oswald', sans-serif; 
+  font-family: "halyard-display", sans-serif;
+  
   font-weight: 500;
   line-height: 120%;
 }
 
 h5 {
   font-size: var(--text-x2);
-  font-family: 'Oswald', sans-serif; 
+  font-family: "halyard-display", sans-serif;
   font-weight: 500;
   line-height: 120%;
 }
 
 h6 {
   font-size: var(--text-x1);
-  font-family: 'Oswald', sans-serif; 
+  font-family: "halyard-display", sans-serif;
+
   font-weight: 500;
   line-height: 120%;
 }
 
 .core-lab-sans-medium {
-  font-family: 'Oswald', sans-serif; 
+  font-family: "halyard-display", sans-serif;
   font-weight: 500;
   line-height: 100%;
 
 }
 
 .core-lab-sans {
-  font-family: 'Oswald', sans-serif; 
+  font-family: "halyard-display", sans-serif;
   font-weight: 300;
   line-height: 100%;
 }
 
 .core-lab-serif {
-  font-family: 'Bitter', serif;
+  font-family: "halyard-display", sans-serif;
   font-weight: 900;
   line-height: 100%;
 }
