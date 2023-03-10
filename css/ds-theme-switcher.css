@@ -176,20 +176,20 @@ textarea {
 
 
   :root {
-    --bg-color: #CF9730;
+    --bg-color: #6786b8;
     --font-color: #222;
-    --title-color: #0067e6;
+    --title-color: #fd8dc8;
     --title-background: #eee;
     --main-border: 1px solid rgba(255, 255, 255, 0.4);
     --main-bg: rgba(255, 255, 255, 0.4);
 
-    --wf-gray: #434E59;
-    --wf-light-gray: #E6ECF2;
-    --wf-bright-yellow: #F2BC1B;
-    --wf-medium-yellow: #CF9730;
-    --wf-medium-brown: #CF9730;
-    --wf-deep-brown: #736048;
-    --body-text-color: var(--wf-medium-brown);
+    --wf-blue: #8DD9E7;
+    --wf-pink: #FD8DC8;
+    --wf-dark-blue: #6786b8;
+    --wf-bright-yellow: #fce300;
+    --wf-orange: #ff6c0e;
+    --wf-deep-blue: #3f5c8a;
+    --body-text-color: var(--wf-deep-blue);
 
     /* body font size */
     --text-base-size: 1rem;
@@ -408,27 +408,39 @@ h6 {
 /* colors */
 
 
-.color-gray {
-    background-color: #434E59;
+.color-blue {
+    background-color: #8DD9E7;
   }
 
-    .color-light-gray {
-    background-color: #E6ECF2;
+    .color-pink {
+    background-color: #FD8DC8;
+  }
+    .color-orange {
+    background-color: #ff6c0e;
+  }
+    .color-dark-blue {
+    background-color: #6786b8;
   }
     .color-bright-yellow {
-    background-color: #F2BC1B;
+    background-color: #fce300;
   }
-    .color-medium-yellow {
-    background-color: #CF9730;
-  }
-    .color-medium-brown {
-    background-color: #A66312;
-  }
-    .color-deep-brown {
-    background-color: #736048;
+    .color-deep-blue {
+    background-color: #3f5c8a;
   }
 
 /* theme switcher code */
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
