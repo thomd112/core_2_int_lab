@@ -211,7 +211,7 @@ textarea {
 
   [data-theme="dark"] {
     --bg-color: #111;
-    --font-color: #efefef;
+    --font-color: #eee;
     --title-color: #fec150;
     --title-background: #222;
     --main-border: 1px solid rgba(255, 255, 255, 0.2);
@@ -525,7 +525,7 @@ h6 {
   }
   
   input:checked + .slider {
-    background-color: #fec150;
+    background-color: #fce300;
   }
   
   input:checked + .slider:before {
@@ -533,7 +533,7 @@ h6 {
   }
   
   .slider svg {
-    color: #222;
+    color: rgb(0, 0, 0);
     position: absolute;
     transition: opacity 0.2s ease 0s, transform 0.35s ease 0s;
     pointer-events: none;
@@ -674,7 +674,7 @@ h6 {
   *,
   *::before,
   *::after {
-    background: #fff !important;
+    background: rgb(0, 0, 0) !important;
     color: #000 !important;
     /* Black prints faster */
     box-shadow: none !important;
