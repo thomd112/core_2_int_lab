@@ -1,0 +1,31 @@
+
+
+{
+  "classes": [
+    {
+      "name": "Mathematics",
+      "teacher": "John Doe",
+      "room": "101"
+    },
+    {
+      "name": "English",
+      "teacher": "Jane Smith",
+      "room": "102"
+    },
+    {
+      "name": "Science",
+      "teacher": "Bob Johnson",
+      "room": "103"
+    },
+    {
+      "name": "History",
+      "teacher": "Samantha Lee",
+      "room": "104"
+    },
+    {
+      "name": "Art",
+      "teacher": "David Kim",
+      "room": "105"
+    }
+  ]
+}
