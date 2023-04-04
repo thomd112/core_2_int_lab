@@ -1,31 +1,54 @@
-
-
-{
-  "classes": [
+[
     {
-      "name": "Mathematics",
-      "teacher": "John Doe",
-      "room": "101"
+      "name" : "Brand/NMDS brand pink",
+      "value" : "#e62f88"
     },
     {
-      "name": "English",
-      "teacher": "Jane Smith",
-      "room": "102"
+      "name" : "Brand/NMDS brand scarlet",
+      "value" : "#ec473e"
     },
     {
-      "name": "Science",
-      "teacher": "Bob Johnson",
-      "room": "103"
+      "name" : "Brand/NMDS brand blue",
+      "value" : "#00b6e0"
     },
     {
-      "name": "History",
-      "teacher": "Samantha Lee",
-      "room": "104"
+      "name" : "Brand/NMDS brand emerald",
+      "value" : "#00b09b"
     },
     {
-      "name": "Art",
-      "teacher": "David Kim",
-      "room": "105"
+      "name" : "Brand/NMDS brand lime",
+      "value" : "#c7d545"
+    },
+    {
+      "name" : "Brand/NMDS brand yellow",
+      "value" : "#feb33f"
+    },
+    {
+      "name" : "Backgrounds/NMDS background white",
+      "value" : "#ffffff"
+    },
+    {
+      "name" : "Backgrounds/NMDS background light",
+      "value" : "#f1f3f4"
+    },
+    {
+      "name" : "Neutrals/NMDS gray 100",
+      "value" : "#f1f3f4"
+    },
+    {
+      "name" : "Neutrals/NMDS gray 200",
+      "value" : "#e4e7e9"
+    },
+    {
+      "name" : "Neutrals/NMDS gray 300",
+      "value" : "#b8bbbe"
+    },
+    {
+      "name" : "Neutrals/NMDS gray 800",
+      "value" : "#636669"
+    },
+    {
+      "name" : "Neutrals/NMDS gray 900",
+      "value" : "#212429"
     }
   ]
-}
