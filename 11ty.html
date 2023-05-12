@@ -8,6 +8,46 @@
     <title>Testing a template layout</title>
     <link rel="stylesheet" href="/css/main.css">
 </head>
+
+	<style>
+		
+		table {
+			border-collapse: collapse;
+			margin: 50px auto;
+			background-color: #fff;
+			box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+			border-radius: 10px;
+			overflow: hidden;
+		}
+		
+		th, td {
+			padding: 15px;
+			text-align: center;
+		}
+		
+		th {
+			background-color: #f2f2f2;
+			color: #555;
+			border-bottom: 2px solid #ddd;
+		}
+		
+		tr:nth-child(even) {
+			background-color: #f8f8f8;
+		}
+		
+		tr:hover {
+			background-color: #f2f2f2;
+		}
+		
+		td:first-child {
+			font-weight: bold;
+		}
+		
+		td:last-child {
+			color: #aaa;
+		}
+	</style>
+</head>
 <body>
     <main>
     <header>
@@ -32,7 +72,55 @@ font-size: 2rem;
   background-color: transparent;
   text-decoration: none;
 }
+h1{
+    text-align: center;
+}
         </style>
+
+<body>
+	<table>
+		<thead>
+			<tr>
+				<th>Projects</th>
+				<th>Purpose, Ideas,and My Approach</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td><ul><a href="sessions/week-2/css-grid.html">Grid</a></ul></div></td>
+				<td>Row 1, Column 2</td>
+			</tr>
+			<tr>
+				<td><div class="item2"><ul><a href="sessions/week-2/flexbox.html">Flexbox</a></ul></div></td>
+				<td>Row 2, Column 2</td>
+			</tr>
+			<tr>
+				<td><div class="item3"><ul><a href="sessions/week-3/typography.html">Typography Grid</a></ul>
+                </div> </td>
+				<td>Row 3, Column 2</td>
+			</tr>
+			<tr>
+				<td><div class="item4"><ul><a href="sessions/week-6/ds-theme-switcher.html">Design System-Theme Switcher</a></ul>
+                </div></td>
+				<td>Row 4, Column 2</td>
+			</tr>
+			<tr>
+				<td><div class="item7"><ul><a href="lab assignments/main.html">Lab Assignments </a></ul></div></td>
+				<td>Row 5, Column 2</td>
+			</tr>
+			<tr>
+				<td><div class="item8"><ul><a href="sessions/week-7/design-tokens-color.html">week-7 </a></ul></div></td>
+				<td>Row 6, Column 2</td>
+			</tr>
+			<tr>
+				<td><ul><a href="11ty.html">11ty Site</a></ul></div></td>
+				<td>Row 7, Column 2</td>
+			</tr>
+		</tbody>
+	</table>
+</body>
+
+
 
         <body>
             <div class="grid-container">
